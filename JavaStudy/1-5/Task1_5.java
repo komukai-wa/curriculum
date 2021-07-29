@@ -45,7 +45,8 @@ for(String str:fruits){System.out.println(str);}
         System.out.println();}
 
 
-        
+        int []data={3,1,2,5,7};
+        System.out.println(data[1]);
         
         
        
